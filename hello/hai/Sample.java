@@ -6,6 +6,10 @@ public class Sample {
 
   Sample() {
     Hello h=new Hello();
+
+    h.display();
+
+    SampleHello s=new SampleHello();
     
   }
   
